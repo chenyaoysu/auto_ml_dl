@@ -1,0 +1,4 @@
+client_id,loan_type,loan_amount,repaid,loan_id,loan_start,loan_end,rate
+46109,home,13672,0,10243,2002/4/16,2003/12/20,2.15
+46109,credit,9794,0,10984,2003/10/21,2005/7/17,1.25
+46109,cash,12518,1,10596,2010/12/8,2013/5/5,1.24
